@@ -6,6 +6,7 @@
 	border: 1px solid var(--dark-blue);
 	border-radius: 2px;
 	background: var(--light-blue-translucent);
+	pointer-events: none;
 }
 
 body.marquee-selecting .drop {
